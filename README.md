@@ -26,3 +26,6 @@ To make the most of this course, it's recommended that you have a basic understa
 - Feature Extraction
 - Regression
 - Classification
+- Quiz 1 (On a private repository)
+- Ensemble Learning
+- Clustering
