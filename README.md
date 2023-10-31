@@ -29,3 +29,5 @@ To make the most of this course, it's recommended that you have a basic understa
 - Quiz 1 (On a private repository)
 - Ensemble Learning
 - Clustering
+- Midterm Test (On a private repository)
+- Perceptron & ANN
